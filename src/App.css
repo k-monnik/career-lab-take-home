@@ -13,6 +13,10 @@ form {
   padding: 0 2rem;
 }
 
+.button {
+  cursor: pointer;
+}
+
 .form-control > * + *,
 .form-control__radio + .form-control__radio {
   margin-top: 0.5rem;
